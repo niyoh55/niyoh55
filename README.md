@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @niyoh55
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>👋 Hi, I’m Niyoh Edwyn Villanueva. I'm a front end developer that mainly uses React and Next.js for projects.</h1>
 
-<!---
-niyoh55/niyoh55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>Skills</h2>
+- React
+- Next.js
+- React Native
+- Tailwind CSS
+- HTML
+- CSS
+- Node.js
+- Express
+- MongoDB
+- Firebase
+
