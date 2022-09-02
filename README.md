@@ -14,7 +14,6 @@
   <li>Express</li>
   <li>MongoDB</li>
   <li>Firebase</li>
-  <li>React</li>
 </ul>
 
 
