@@ -2,19 +2,19 @@
 
 ## Skills
 
-<ul>
-  <li>React</li>
-  <li>Next.js</li>
-  <li>React Native</li>
-  <li>Tailwind CSS</li>
-  <li>Javascript</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Node.js</li>
-  <li>Express</li>
-  <li>MongoDB</li>
-  <li>Firebase</li>
-</ul>
+
+  - React
+  - Next.js
+  - React Native
+  - Tailwind CSS
+  - Javascript
+  - HTML
+  - CSS
+  - Node.js
+  - Express
+  - MongoDB
+  - Firebase
+
 
 ## Personal Projects
 
