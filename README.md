@@ -32,4 +32,4 @@
   ![WePrintz](https://i.ibb.co/kMpQb0L/weprintz.png)
 
 - ## Netflix Clone. [Link](https://netflix-clone-iota-nine.vercel.app/)
-  ![Netflix Clone](https://i.ibb.co/413hfv5/netflix-clone-123.png)
+  ![Netflix Clone](https://i.ibb.co/M9qJ4hh/cropped-netflix-clone-img.png)
