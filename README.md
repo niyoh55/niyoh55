@@ -1,6 +1,6 @@
-<h1>👋 Hi, I’m Niyoh Edwyn Villanueva. I'm a front end developer that mainly uses React and Next.js for projects.</h1>
+# 👋 Hi, I’m Niyoh Edwyn Villanueva. I'm a front end developer that mainly uses React and Next.js for projects.
 
-<h2>Skills</h2>
+## Skills
 
 <ul>
   <li>React</li>
@@ -14,6 +14,11 @@
   <li>Express</li>
   <li>MongoDB</li>
   <li>Firebase</li>
+</ul>
+
+## Personal Projects
+
+<ul>
 </ul>
 
 
